@@ -1,0 +1,106 @@
+gnome-session-is-accelerated: llvmpipe detected.
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-wR9wrO
+GPG_AGENT_INFO=/run/user/1000/keyring-wR9wrO/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-wR9wrO/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-wR9wrO
+GPG_AGENT_INFO=/run/user/1000/keyring-wR9wrO/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-wR9wrO/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-wR9wrO
+GPG_AGENT_INFO=/run/user/1000/keyring-wR9wrO/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-wR9wrO/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-wR9wrO
+GPG_AGENT_INFO=/run/user/1000/keyring-wR9wrO/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-wR9wrO/ssh
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+
+** (process:1785): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter
+
+(process:1793): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:1793): indicator-application-service-WARNING **: Name Lost
+
+(process:1770): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+I/O warning : failed to load external entity "/home/filip/.compiz/session/10de7d9445a20e3c3014533076082510400000014790001"
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2016-01-20 17:33:44 unity.screen UScreen.cpp:133 UScreen::GetMonitorName: Failed to get monitor name for monitor0
+WARN  2016-01-20 17:33:44 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+ERROR 2016-01-20 17:33:45 unity.debug.interface DebugDBusInterface.cpp:216 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: nie można otworzyć pliku obiektu dzielonego: Nie ma takiego pliku ani katalogu
+WARN  2016-01-20 17:33:45 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2016-01-20 17:33:45 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2016-01-20 17:33:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2016-01-20 17:33:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2016-01-20 17:33:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2016-01-20 17:33:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+compiz (core) - Warn: Attempted to restack relative to 0x1c000da which is not a child of the root window or a window compiz owns
+ERROR 2016-01-20 17:33:49 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'org.gnome.Shell'
+ERROR 2016-01-20 17:33:49 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'com.canonical.Unity'
+
+(zeitgeist-datahub:1907): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:1907): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nm-applet:1789): nm-applet-WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+WARN  2016-01-20 17:34:15 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Nie można otworzyć katalogu
+
+(gnome-terminal:2037): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+Nautilus-Share-Message: Called "net usershare info" but it failed: "net usershare" zwrócił błąd 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Nie ma takiego pliku ani katalogu
+Please ask your system administrator to enable user sharing.
+
+
+** (gedit:4752): CRITICAL **: zeitgeist_log_insert_event_no_reply: assertion 'self != NULL' failed
+
+(process:5048): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+1453309527432	addons.xpi	WARN	Add-on webapps-team@lists.launchpad.net is missing bootstrap method install

@@ -1,0 +1,14 @@
+logrotate state -- version 2
+"/home/filip/.cache/upstart/gnome-keyring-gpg.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/gnome-session-Unity.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/window-stack-bridge.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/dbus.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/ssh-agent.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/gnome-keyring-ssh.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/indicator-bluetooth.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/unity7.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/im-config.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/indicator-power.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/unity-settings-daemon.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/indicator-sound.log" 2016-1-20-17:0:0
+"/home/filip/.cache/upstart/update-notifier-release.log" 2016-1-20-17:0:0
